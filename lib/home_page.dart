@@ -3,7 +3,7 @@ import 'package:instagram_flutter/feed_screen.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({
-    Key? key,
+    Key key,
   }) : super(key: key);
 
   @override
