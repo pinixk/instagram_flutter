@@ -16,9 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // home: AuthScreen(),
       home: HomePage(),
-      theme: ThemeData(
-        primarySwatch: white,
-      ),
+      theme: ThemeData(primarySwatch: white),
     );
   }
 }

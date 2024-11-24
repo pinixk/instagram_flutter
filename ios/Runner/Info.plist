@@ -43,5 +43,10 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+
+	<key>NSCameraUsageDescription</key>
+    <string>카메라를 사용해도 되겠습니까?</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>마이크를 사용해도 되겠습니까?</string>
 </dict>
 </plist>
